@@ -23,4 +23,4 @@ First, run the development server:
 npm run dev
 ```
 
-Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
+Open [https://amruta-khatawate.github.io/Landing-Project/](https://amruta-khatawate.github.io/Landing-Project/) with your browser to see the result.
